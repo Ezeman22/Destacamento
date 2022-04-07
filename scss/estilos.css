@@ -1,0 +1,48 @@
+.nav-link {
+    background: none;
+    border: 0;
+    border-radius: 0.25rem;
+    color: white;
+}
+.carrouseli{
+    background-color: darkgrey;
+    color: white;
+}
+.h4{
+    color: black;
+    background-color: white;
+    border-style: solid;
+    display:inline-block;
+}
+
+.Historia{
+    background-color:transparent;
+/*     background-image: url("../images/dnrd5.jpg"); */
+    background-size:100%;
+}
+
+.Titular{
+    /* /* background-color:mediumblue; */
+    color: #444341;
+    box-shadow: 5px 5px 50px rgba(23, 23, 23, 0.7) inset, -5px -5px 50px rgba(23, 23, 23, 0.7) inset; 
+}
+.Nosotros{
+    background-color: #f7f7f7;
+    font-family:Merriweather;
+}
+
+.bottom-footer {
+    border-top: 1px solid #ebebeb;
+    font-size: 13px;
+    color: #44403f;
+}
+.card-header {   
+    text-align: center;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color:#212529;
+    border-color: #6c757d;
+}
+
